@@ -4,8 +4,6 @@
   <artifactId>Demo-M2</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
-  <groupId>org.seleniumhq.selenium</groupId>
-  <artifactId>selenium</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  
   </dependencies>
 </project>   
