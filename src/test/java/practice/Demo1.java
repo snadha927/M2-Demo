@@ -7,8 +7,8 @@ public class Demo1 {
 		System.out.println("Through branch");
 		System.out.println("push to branch");
 		System.out.println("push to branch");
+		System.out.println("practicing conflict");
 		
 	}
 
 }
-             
