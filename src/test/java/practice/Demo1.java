@@ -6,6 +6,7 @@ public class Demo1 {
 		// TODO Auto-generated method stub
 		System.out.println("practicing pull operation");
 		System.out.println("push to branch");
+		System.out.println("push to branch");
 		System.out.println("Through branch");
 	}
 
